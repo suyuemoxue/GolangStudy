@@ -1,7 +1,7 @@
 package service
 
 import (
-	"GoStudy/customerManage/model"
+	"GolangStudy/customerManage/model"
 	"fmt"
 )
 
