@@ -1,8 +1,8 @@
 package main
 
 import (
-	"GoStudy/customerManage/model"
-	"GoStudy/customerManage/service"
+	"GolangStudy/customerManage/model"
+	"GolangStudy/customerManage/service"
 	"fmt"
 )
 
