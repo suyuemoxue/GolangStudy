@@ -5,7 +5,6 @@ import (
 	"fmt"
 )
 
-// ..
 func main() {
 	var user string
 	var pwd string
