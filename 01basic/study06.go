@@ -13,7 +13,7 @@ func main() {
 		pa[i] = &a[i]
 	}
 	fmt.Println(pa)
-	for i, _ := range pa {
+	for i := range pa {
 		fmt.Println(*pa[i])
 	}
 
